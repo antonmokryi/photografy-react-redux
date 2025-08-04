@@ -1,0 +1,23 @@
+[
+
+  {
+    "id": 1,
+    "label": "Maison",
+    "url": "/"
+  },
+  {
+    "id": 2,
+    "label": "Portefeuille",
+    "url": "Portfolio"
+  },
+  {
+    "id": 3,
+    "label": "Tarifs",
+    "url": "#"
+  },
+  {
+    "id": 4,
+    "label": "Contact",
+    "url": "Contact"
+  }
+]
